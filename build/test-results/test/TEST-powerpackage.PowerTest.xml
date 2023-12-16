@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="powerpackage.PowerTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2023-12-16T13:11:29" hostname="jsv-manjaro" time="0.003">
+  <properties/>
+  <testcase name="power_of_two_and_three_is_six" classname="powerpackage.PowerTest" time="0.002"/>
+  <testcase name="two_power_two_is_four" classname="powerpackage.PowerTest" time="0.0"/>
+  <testcase name="twoRaised_to_one_is_two" classname="powerpackage.PowerTest" time="0.0"/>
+  <testcase name="one_raised_to_one_is_one" classname="powerpackage.PowerTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
